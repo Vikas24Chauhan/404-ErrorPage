@@ -12,8 +12,6 @@ function Error404() {
         <a
           className="back-btn"
           href="https://vikas24chauhan.github.io/MyPortfolio/"
-          target="_blank"
-          rel="noopener noreferrer"
         >
           Back To Home
         </a>
